@@ -10,5 +10,5 @@ package m_eva;
  * @author usuario
  */
 public class m_eva {
-    
+    public int numero1;
 }
